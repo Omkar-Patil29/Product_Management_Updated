@@ -1,0 +1,10 @@
+com\project\december1\model\Product.class
+com\project\december1\ServletInitializer.class
+com\project\december1\service\CategoryService.class
+com\project\december1\repository\CategoryRepository.class
+com\project\december1\controller\ProductController.class
+com\project\december1\controller\CategoryController.class
+com\project\december1\model\Category.class
+com\project\december1\ProductManagementApplication.class
+com\project\december1\repository\ProductRepository.class
+com\project\december1\service\ProductService.class
